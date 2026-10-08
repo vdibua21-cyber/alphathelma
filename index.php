@@ -241,7 +241,8 @@
             <div class="carousel-item active">
                 <div class="container py-3">
                     <div class="d-inline-block px-3 py-1 rounded-pill mb-4" style="background-color: #FBEBEB; border: 1px solid #F3C6C8;">
-                        <span class="text-danger fw-bold tracking-wider" style="font-size: 0.75rem; letter-spacing: 1px;">LIMITED SEATS: LAGOS & ABUJA</span>
+                        <span class="text-danger fw-bold tracking-wider" style="font-size: 0.75rem; letter-spacing: 1px;">LIMITED SEATS: LAGOS ONLY
+                        </span>
                     </div>
 
                     <h1 class="display-4 hero-title mb-4">
