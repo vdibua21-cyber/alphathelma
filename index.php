@@ -235,14 +235,14 @@
             <button type="button" data-bs-target="#heroSlider" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
 
-        
+
         <div class="carousel-inner text-center py-2">
             
             <!-- Slide 1: Original TEF/TCF Hook -->
             <div class="carousel-item active">
                 <div class="container py-3">
                     <div class="d-inline-block px-3 py-1 rounded-pill mb-4" style="background-color: #FBEBEB; border: 1px solid #F3C6C8;">
-                        <span class="text-danger fw-bold tracking-wider" style="font-size: 0.75rem; letter-spacing: 1px;">LIMITED SEATS: LAGOS ONLY
+                        <span class="text-danger fw-bold tracking-wider" style="font-size: 0.75rem; letter-spacing: 1px;">LIMITED SEATS: LAGOS 
                         </span>
                     </div>
 
@@ -597,7 +597,7 @@
                     <div class="col-12 col-lg-4 text-center text-lg-end">
                         <div class="d-inline-block px-4 py-3 text-uppercase fw-semibold" 
                              style="font-family: 'Playfair Display', 'Georgia', serif; font-size: 1.45rem; letter-spacing: 1px; border: 1px solid rgba(255, 255, 255, 0.4); background-color: rgba(255, 255, 255, 0.04); color: #ffffff; border-radius: 0px;">
-                            04 Seats Left
+                            10 seats left
                         </div>
                     </div>
 
